@@ -6,7 +6,7 @@ Libraries needed:
 Python Version 2
 SciKit Learn 0.18
 Numpy
-Pandas
+Pandas 
 MatPlotLib
 IPython Notebook
 
